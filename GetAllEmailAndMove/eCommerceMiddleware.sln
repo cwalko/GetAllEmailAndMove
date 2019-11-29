@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GetAllEmailAndMove", "GetAllEmailAndMove\GetAllEmailAndMove.vbproj", "{9DA6197C-CEDA-4F65-8A04-F0634FD88C52}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CreateOrdersFromTxtFiles", "CreateOrdersFromTxtFiles\CreateOrdersFromTxtFiles.vbproj", "{C057982B-F475-49FC-939A-0937C09D6088}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Find WebOrder", "..\Find WebOrder\Find WebOrder\Find WebOrder.vbproj", "{97CD63D4-AD76-432A-B5F6-F714A1638B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA6197C-CEDA-4F65-8A04-F0634FD88C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA6197C-CEDA-4F65-8A04-F0634FD88C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA6197C-CEDA-4F65-8A04-F0634FD88C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA6197C-CEDA-4F65-8A04-F0634FD88C52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C057982B-F475-49FC-939A-0937C09D6088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C057982B-F475-49FC-939A-0937C09D6088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C057982B-F475-49FC-939A-0937C09D6088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C057982B-F475-49FC-939A-0937C09D6088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97CD63D4-AD76-432A-B5F6-F714A1638B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97CD63D4-AD76-432A-B5F6-F714A1638B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97CD63D4-AD76-432A-B5F6-F714A1638B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97CD63D4-AD76-432A-B5F6-F714A1638B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {856B6076-FD38-418C-B3C8-231A4020680C}
+	EndGlobalSection
+EndGlobal
