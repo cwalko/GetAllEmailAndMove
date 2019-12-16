@@ -1,0 +1,15 @@
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CreateOrdersFromTxtFiles.exe.config
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CreateOrdersFromTxtFiles.exe
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CreateOrdersFromTxtFiles.pdb
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CreateOrdersFromTxtFiles.xml
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\obj\Debug\CreateOrdersFromTxtFiles.Resources.resources
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\obj\Debug\CreateOrdersFromTxtFiles.vbproj.GenerateResource.cache
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\obj\Debug\CreateOrdersFromTxtFiles.exe
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\obj\Debug\CreateOrdersFromTxtFiles.xml
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\obj\Debug\CreateOrdersFromTxtFiles.pdb
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\obj\Debug\CreateOrdersFromTxtFiles.vbprojAssemblyReference.cache
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\obj\Debug\CreateOrdersFromTxtFiles.vbproj.CopyComplete
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CommonSubs.dll
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CommonSubs.pdb
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CommonSubs.xml
+D:\Users\cwalk\source\repos\GetAllEmailAndMove\CreateOrdersFromTxtFiles\bin\Debug\CommonSubs.dll.config
